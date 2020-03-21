@@ -16,4 +16,4 @@ xm.T*ym
 W = (xm.T*xm).I*(xm.T*ym)
 w = W.shape
 
-print("X=\n",X,"\nY=\n",Y,"\n
+print("X=\n",X,"\nY=\n",Y,"\nW=\n",W,"\nW的shape形状为：\n",w)
